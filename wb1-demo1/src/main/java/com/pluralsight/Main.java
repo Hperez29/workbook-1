@@ -15,5 +15,11 @@ public class Main {
 
         System.out.println(greeting);
 
+        /// /////////////////////////
+
+        float taxRate = 0.15f;
+
+        long aLargeNumber = 222222L;
+
     }
 }
