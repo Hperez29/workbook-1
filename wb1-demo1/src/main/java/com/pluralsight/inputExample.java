@@ -1,15 +1,31 @@
 package com.pluralsight;
 
+import java.util.*;
+
 public class inputExample {
 
     public static void main(String[] args) {
 
-    double number1 = 4;
-    double number2 = 5;
+        Scanner scanner = new Scanner(System.in);
 
-    double product = number1 * number2;
 
-    System.out.println("The product of" + number1 + " and " + number2 + " is " + product );
+        System.out.println("What is the first number?");
+        double number1 = 4;
+
+
+        System.out.println("What is the second number");
+        double number2 = 5;
+
+
+
+
+
+
+        double product = number1 * number2;
+
+        System.out.println("The product of" + number1 + " and " + number2 + " is " + product );
+
+
 
     }
 }
