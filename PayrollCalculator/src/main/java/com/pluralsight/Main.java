@@ -23,10 +23,16 @@ public class Main {
         // Calculate gross pay
         double grossPay = hoursWorked * payRate;
 
+        if (hoursWorked <= 40){
+            double OTP = payRate * 1.5;
+            double OTHour = (hoursWorked - 40) * OTP;
+            // and the amount of pay
+        }
+
         // Display the result
         System.out.printf("Employee Name: %s%n", name);
         System.out.printf("Gross Pay: $%.2f%n", grossPay);
 
-        input.close();
+
     }
     }
