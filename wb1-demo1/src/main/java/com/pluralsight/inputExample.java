@@ -21,6 +21,9 @@ public class inputExample {
 
 
 
+
+
+
         double product = number1 * number2;
 
         System.out.println("The product of" + number1 + " and " + number2 + " is " + product );
