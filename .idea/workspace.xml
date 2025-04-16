@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c7686d-d594-425b-a637-c84eb5ac338e" name="Changes" comment="" />
+    <list default="true" id="83c7686d-d594-425b-a637-c84eb5ac338e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentalCarCalculator/src/main/java/RentalCarCalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SandwichShop/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SandwichShop/src/main/java/com/pluralsight/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
