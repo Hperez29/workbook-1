@@ -34,7 +34,10 @@ public class Main {
             if (sizeChoice == 1){
                 basePrice += 1.00;
             } else if (sizeChoice == 2){
-                basePrice += 1/75;
+                basePrice += 1.75;
+            }
+            else {
+                System.out.println("Unknown size selected. No additional charge for loading.");
             }
         }
 
